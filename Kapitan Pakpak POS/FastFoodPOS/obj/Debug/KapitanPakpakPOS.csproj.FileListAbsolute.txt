@@ -1,0 +1,105 @@
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\user_default.png
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\FastFoodDatabase.accdb
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\product_default.png
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.exe.config
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.exe
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.pdb
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\ClosedXML.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\ExcelNumberFormat.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Guna.UI2.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.WinForms.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.Wpf.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\MySql.Data.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.AssemblyReference.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.SuggestedBindingRedirects.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.AlertNotification.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.OrderItemComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.ProductCardComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.ProductCardComponent1.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.UserCardComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.BackupDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.ConfirmDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.HelpDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormActivityLog.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormAddProduct.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormAddUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormChangePassword.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormDashboard.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormManageProducts.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormProductArchive.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormSalesReport.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormTransactions.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateProduct.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateCurrentUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUsers.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUsersArchive.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.FormUpdatePassword.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.ProcessOrder.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormAdminLogin.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormAdminPanel.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.FormPOS.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormCashierPanel.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormLoading.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormRegistration.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.MainForm.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Properties.Resources.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.GenerateResource.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.CoreCompileInputs.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.CopyComplete
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.exe
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.pdb
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\user_default.png
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\FastFoodDatabase.accdb
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Resources\product_default.png
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.exe.config
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.exe
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\FastFoodPOS.pdb
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\ClosedXML.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\ExcelNumberFormat.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\Guna.UI2.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.WinForms.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\LiveCharts.Wpf.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\bin\Debug\MySql.Data.dll
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.AssemblyReference.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.AlertNotification.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.OrderItemComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.ProductCardComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.ProductCardComponent1.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Components.UserCardComponent.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.BackupDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.ConfirmDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Dialog.HelpDialogBox.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormActivityLog.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormAddProduct.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormAddUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormChangePassword.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormDashboard.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormManageProducts.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormProductArchive.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormSalesReport.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormTransactions.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateProduct.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateCurrentUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUsers.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUpdateUser.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.AdminForms.FormUsersArchive.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.FormUpdatePassword.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.ProcessOrder.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormAdminLogin.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormAdminPanel.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.CashierForms.FormPOS.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormCashierPanel.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormLoading.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Forms.FormRegistration.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.MainForm.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.Properties.Resources.resources
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.GenerateResource.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.CoreCompileInputs.cache
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\KapitanPakpakPOS.csproj.CopyComplete
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.exe
+D:\Kapitan Pakpak POS\Kapitan Pakpak POS\Kapitan Pakpak POS\FastFoodPOS\obj\Debug\FastFoodPOS.pdb
